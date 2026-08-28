@@ -314,5 +314,341 @@ const portfolioData = [
       "images/case-dmwaiter/image-1-1600.png",
       "images/case-dmwaiter/image-2-1600.png"
     ]
+  },
+  {
+    "id": "case-finkey",
+    "title": "Solar financing management platform",
+    "subtitle": "Transformed a manual, spreadsheet-based loan operation into a fully automated web application.",
+    "tags": [
+      "Product design",
+      "Web app"
+    ],
+    "metadata": {
+      "Category": [
+        "Product design",
+        "Web app"
+      ],
+      "Year": "2025",
+      "Timeline": "1 month",
+      "Role": "Product Designer"
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "images/case-finkey/thumb-big-1600.png",
+        "large": "images/case-finkey/thumb-big-2400.png"
+      },
+      {
+        "type": "text",
+        "content": "<h3>About the project</h3>\n<p>The client runs a successful business providing personal loans for solar panel installations. While the business was fully operational and receiving a steady flow of clients through external vendors, the entire internal operation was managed manually using complex Excel spreadsheets.</p>\n<h3>My task</h3>\n<p>My goal was to study the company's internal workflows and design a scalable web service that would completely replace their spreadsheet-based system. I also had to translate the client's existing visual identity\u2014previously used only for their landing page and print materials\u2014into a functional UI component library from scratch.</p>\n<h3>The process</h3>\n<p>I started by conducting in-depth stakeholder interviews and analyzing their Excel documents to map out the exact business logic, focusing heavily on how vendors submit and manage clients. I designed the interface around these real-world workflows. Throughout the process, I worked closely with the development team to validate technical flows, ensuring that critical integrations like KYC verification and payment processing were both user-friendly and technically feasible.</p>"
+      },
+      {
+        "type": "text",
+        "content": "<h3>The outcome</h3>\n<p>Delivered a comprehensive, development-ready web application design and a custom design system. The new platform successfully automated vendor onboarding, loan tracking, and payment processing, eliminating manual data entry and providing a scalable foundation for business growth.</p>"
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "images/case-finkey/image-1-1600.png",
+            "large": "images/case-finkey/image-1-2400.png"
+          },
+          {
+            "src": "images/case-finkey/image-2-1600.png",
+            "large": "images/case-finkey/image-2-2400.png"
+          },
+          {
+            "src": "images/case-finkey/image-3-1600.png",
+            "large": "images/case-finkey/image-3-2400.png"
+          },
+          {
+            "src": "images/case-finkey/image-4-1600.png",
+            "large": "images/case-finkey/image-4-2400.png"
+          },
+          {
+            "src": "images/case-finkey/image-5-1600.png",
+            "large": "images/case-finkey/image-5-2400.png"
+          },
+          {
+            "src": "images/case-finkey/image-6-1600.png",
+            "large": "images/case-finkey/image-6-2400.png"
+          },
+          {
+            "src": "images/case-finkey/image-7-1600.png",
+            "large": "images/case-finkey/image-7-2400.png"
+          },
+          {
+            "src": "images/case-finkey/image-8-1600.png",
+            "large": "images/case-finkey/image-8-2400.png"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "images/case-finkey/thumb-small-720.png",
+      "images/case-finkey/thumb-big-1600.png",
+      "images/case-finkey/image-1-1600.png",
+      "images/case-finkey/image-2-1600.png",
+      "images/case-finkey/image-3-1600.png",
+      "images/case-finkey/image-4-1600.png",
+      "images/case-finkey/image-5-1600.png",
+      "images/case-finkey/image-6-1600.png",
+      "images/case-finkey/image-7-1600.png",
+      "images/case-finkey/image-8-1600.png"
+    ]
+  },
+  {
+    "id": "case-pulsepoint",
+    "title": "AI-powered survey platform",
+    "subtitle": "Redesigned an AI-generated platform to support future scalability and feature expansion.",
+    "tags": [
+      "Product design",
+      "Web app"
+    ],
+    "metadata": {
+      "Category": [
+        "Product design",
+        "Web app"
+      ],
+      "Year": "2025",
+      "Timeline": "3 weeks",
+      "Role": "Product Designer"
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "images/case-pulsepoint/thumb-big-1600.png",
+        "large": ""
+      },
+      {
+        "type": "text",
+        "content": "<h3>About the project</h3>\n<p>The client approached me with a functional, AI-generated MVP for automated phone and SMS surveys. They needed to transform this rough technical prototype into a scalable, market-ready B2B product.</p>\n<h3>My task</h3>\n<p>Because the MVP was built on one massive screen, the interface became chaotic and unusable as the feature list grew. My task was to dismantle this overloaded layout and create a clean, step-by-step workflow that users could easily navigate.</p>\n<h3>The process</h3>\n<p>During the initial UX audit, I uncovered the root of the problem: the single-screen layout was visually overwhelming, causing users to get frustrated and lost while trying to complete basic tasks. Instead of patching this broken layout, I rebuilt the application around the actual user workflow, separating the tasks into distinct modules: survey setup, question builder, contact management, live tracking, and final results overview.</p>"
+      },
+      {
+        "type": "text",
+        "content": "<h3>The outcome</h3>\n<p>Delivered a complete UX architecture, high-fidelity interfaces, and a scalable UI component library. Replacing the single-screen layout with a modular, step-by-step flow provided a clear visual hierarchy and a solid, development-ready foundation for future product growth.</p>"
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "images/case-pulsepoint/image-1-1600.png",
+            "large": "images/case-pulsepoint/image-1-2400.png"
+          },
+          {
+            "src": "images/case-pulsepoint/image-2-1600.png",
+            "large": "images/case-pulsepoint/image-2-2400.png"
+          },
+          {
+            "src": "images/case-pulsepoint/image-3-1600.png",
+            "large": "images/case-pulsepoint/image-3-2400.png"
+          },
+          {
+            "src": "images/case-pulsepoint/image-4-1600.png",
+            "large": "images/case-pulsepoint/image-4-2400.png"
+          },
+          {
+            "src": "images/case-pulsepoint/image-5-1600.png",
+            "large": "images/case-pulsepoint/image-5-2400.png"
+          },
+          {
+            "src": "images/case-pulsepoint/image-6-1600.png",
+            "large": "images/case-pulsepoint/image-6-2400.png"
+          }
+        ]
+      }
+    ],
+    "images": [
+      "images/case-pulsepoint/thumb-small-720.png",
+      "images/case-pulsepoint/thumb-big-1600.png",
+      "images/case-pulsepoint/image-1-1600.png",
+      "images/case-pulsepoint/image-2-1600.png",
+      "images/case-pulsepoint/image-3-1600.png",
+      "images/case-pulsepoint/image-4-1600.png",
+      "images/case-pulsepoint/image-5-1600.png",
+      "images/case-pulsepoint/image-6-1600.png"
+    ]
+  },
+  {
+    "id": "case-interpretr",
+    "title": "AI sleep quality tracker and dream journal",
+    "subtitle": "Transformed the client's idea into a complete mobile application.",
+    "tags": [
+      "Product design",
+      "Mobile app"
+    ],
+    "metadata": {
+      "Category": [
+        "Product design",
+        "Mobile app"
+      ],
+      "Year": "2025",
+      "Timeline": "3 months",
+      "Role": "Product Designer"
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "images/case-interpretr/thumb-big-1600.png",
+        "large": "images/case-interpretr/thumb-big-2400.png"
+      },
+      {
+        "type": "text",
+        "content": "<h3>About the project</h3>\n<p>Interpretr is an AI-powered mobile application designed to help users record dreams, generate AI interpretations, visualize dream scenes, monitor sleep quality, and discover recurring themes and symbols over time.</p>\n<h3>My task</h3>\n<p>The client approached us with an early-stage product idea rather than a defined specification. My role was to transform that concept into a cohesive mobile experience by designing user flows, interfaces, and interactions that balanced AI features with a simple and intuitive user experience.</p>\n<h3>The process</h3>\n<p>The project moved at a fast pace, so the discovery phase remained intentionally lightweight. Instead of extensive research, I worked with proto personas, competitor reviews, and continuous stakeholder feedback to shape the product as requirements evolved. This iterative workflow allowed us to quickly validate ideas, refine the feature set, and translate an abstract concept into a development-ready design.</p>"
+      },
+      {
+        "type": "text",
+        "content": "<h3>The outcome</h3>\n<p>I delivered a complete mobile application design covering the entire user journey, from recording dreams to AI interpretation, visualization, sleep analytics, and recurring pattern tracking. The final handoff included a reusable component library and development-ready designs, providing a scalable foundation for future product growth.</p>"
+      },
+      {
+        "type": "image",
+        "src": "images/case-interpretr/image-1-1600.png",
+        "large": "images/case-interpretr/image-1-2400.png"
+      },
+      {
+        "type": "image",
+        "src": "images/case-interpretr/image-2-1600.png",
+        "large": "images/case-interpretr/image-2-2400.png"
+      },
+      {
+        "type": "image",
+        "src": "images/case-interpretr/image-3-1600.png",
+        "large": "images/case-interpretr/image-3-2400.png"
+      }
+    ],
+    "images": [
+      "images/case-interpretr/thumb-small-720.png",
+      "images/case-interpretr/thumb-big-1600.png",
+      "images/case-interpretr/image-1-1600.png",
+      "images/case-interpretr/image-2-1600.png",
+      "images/case-interpretr/image-3-1600.png"
+    ]
+  },
+  {
+    "id": "case-wizmark",
+    "title": "Bookmark management tool",
+    "subtitle": "Designed the application from scratch, from initial concepts to the final user interface.",
+    "tags": [
+      "Product design",
+      "Web app"
+    ],
+    "metadata": {
+      "Category": [
+        "Product design",
+        "Web app"
+      ],
+      "Year": "2024",
+      "Timeline": "3 months",
+      "Role": "Product Designer"
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "images/case-wizmark/thumb-big-1600.png",
+        "large": "images/case-wizmark/thumb-big-2400.png"
+      },
+      {
+        "type": "text",
+        "content": "<h3>About the project</h3>\n<p>The client approached me with the idea of building a bookmark management platform consisting of a web application and a Chrome extension. The goal was to validate a new approach to organizing bookmarks before investing in full-scale product development.</p>\n<h3>My task</h3>\n<p>My task was to design the product from scratch and transform the client's concept into a complete, development-ready experience. This included defining the core user flows, designing the web application and browser extension, and creating an interface that felt more flexible than traditional folder-based bookmark managers.</p>\n<h3>The process</h3>\n<p>The product introduced a unique way of organizing bookmarks, so the design process focused on adapting familiar UX patterns to an entirely different information architecture. I created numerous wireframes and interface iterations, testing different approaches to navigation, organization, and content management to ensure the new concept covered all primary user scenarios while remaining intuitive.</p>"
+      },
+      {
+        "type": "text",
+        "content": "<h3>The outcome</h3>\n<p>Delivered a complete set of high-fidelity, development-ready designs for both the web platform and the Chrome extension. The final handoff included a fully documented UI component library to ensure visual consistency and streamline the upcoming engineering phase.</p>"
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "images/case-wizmark/image-1-1600.png",
+            "large": "images/case-wizmark/image-1-2400.png"
+          },
+          {
+            "src": "images/case-wizmark/image-2-1600.png",
+            "large": "images/case-wizmark/image-2-2400.png"
+          },
+          {
+            "src": "images/case-wizmark/image-3-1600.png",
+            "large": "images/case-wizmark/image-3-2400.png"
+          },
+          {
+            "src": "images/case-wizmark/image-4-1600.png",
+            "large": "images/case-wizmark/image-4-2400.png"
+          },
+          {
+            "src": "images/case-wizmark/image-5-1600.png",
+            "large": "images/case-wizmark/image-5-2400.png"
+          },
+          {
+            "src": "images/case-wizmark/image-6-1600.png",
+            "large": "images/case-wizmark/image-6-2400.png"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "images/case-wizmark/image-7-1600.png",
+        "large": "images/case-wizmark/image-7-2400.png"
+      }
+    ],
+    "images": [
+      "images/case-wizmark/thumb-small-720.png",
+      "images/case-wizmark/thumb-big-1600.png",
+      "images/case-wizmark/image-1-1600.png",
+      "images/case-wizmark/image-2-1600.png",
+      "images/case-wizmark/image-3-1600.png",
+      "images/case-wizmark/image-4-1600.png",
+      "images/case-wizmark/image-5-1600.png",
+      "images/case-wizmark/image-6-1600.png",
+      "images/case-wizmark/image-7-1600.png"
+    ]
+  },
+  {
+    "id": "case-mmm",
+    "title": "AI-powered financial health assessment app",
+    "subtitle": "Designed a mobile application based on the client's existing web platform.",
+    "tags": [
+      "Product design",
+      "Mobile app"
+    ],
+    "metadata": {
+      "Category": [
+        "Product design",
+        "Mobile app"
+      ],
+      "Year": "2025",
+      "Timeline": "2 months",
+      "Role": "Product Designer"
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "images/case-mmm/thumb-big-1600.png",
+        "large": "images/case-mmm/thumb-big-2400.png"
+      },
+      {
+        "type": "text",
+        "content": "<h3>About the project</h3>\n<p>MyMoneyMedic is an AI-powered personal finance platform designed to help users understand and improve their financial health.</p>\n<h3>My task</h3>\n<p>The client had an existing web application and needed a mobile experience. My objective was to translate dense financial data and AI-driven insights into a streamlined, mobile-first interface without overwhelming the user on a small screen.</p>\n<h3>The process</h3>\n<p>Driven by aggressive stakeholder timelines, we adapted our process to move at an accelerated pace. Instead of lengthy upfront research, I mapped out the core user journeys and validated architectural decisions directly during rapid syncs with stakeholders. This lean approach allowed us to instantly filter out unviable ideas, balance urgent business requirements, and ensure a rapid, successful launch.</p>"
+      },
+      {
+        "type": "text",
+        "content": "<h3>The outcome</h3>\n<p>I delivered a complete mobile app interface and a standardized UI component library. The final design successfully transformed a complex web platform into an intuitive mobile tool, fully prepared for development handoff.</p>"
+      },
+      {
+        "type": "image",
+        "src": "images/case-mmm/image-1-1600.png",
+        "large": "images/case-mmm/image-1-2400.png"
+      },
+      {
+        "type": "image",
+        "src": "images/case-mmm/image-2-1600.png",
+        "large": "images/case-mmm/image-2-2400.png"
+      }
+    ],
+    "images": [
+      "images/case-mmm/thumb-small-720.png",
+      "images/case-mmm/thumb-big-1600.png",
+      "images/case-mmm/image-1-1600.png",
+      "images/case-mmm/image-2-1600.png"
+    ]
   }
 ];
